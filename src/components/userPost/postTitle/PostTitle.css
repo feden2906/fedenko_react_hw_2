@@ -1,0 +1,8 @@
+.post-title {
+    display: flex;
+
+}
+
+.inline-title {
+    display: inline-block;
+}
