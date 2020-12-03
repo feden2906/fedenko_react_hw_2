@@ -5,7 +5,7 @@ class UserNum extends Component {
     const {userId} = this.props
     return (
         <div>
-          {<h2>Пост куристувача №{userId}</h2>}
+          {<h2><i>Пост куристувача №{userId}</i></h2>}
         </div>
     );
   }

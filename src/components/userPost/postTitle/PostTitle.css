@@ -1,8 +1,13 @@
 .post-title {
     display: flex;
-
+    justify-content: space-between;
 }
 
 .inline-title {
     display: inline-block;
+    margin: 0 0 0 30px;
+}
+.btn-title {
+    width: 90px;
+    margin-right: 150px;
 }

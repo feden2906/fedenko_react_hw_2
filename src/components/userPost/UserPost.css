@@ -1,0 +1,14 @@
+h2 {
+    margin: 10px;
+}
+.post {
+    width: 90%;
+    padding: 15px 15px 25px;
+    background-color: #e7b0e7;
+    margin: 10px auto;
+    border-radius: 10px;
+    border: solid grey 2px;
+}
+.post:hover {
+    background-color: #c38ac3;
+}

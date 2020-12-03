@@ -19,7 +19,7 @@ class RenderAllPosts extends Component {
     const {allPosts} = this.state;
     return (
         <div>
-          {<h1>Всі пости користувачів</h1>}
+          {<h1><b>Всі пости користувачів</b></h1>}
           {allPosts.map(value => <UserPost post={value} key={value.id}/>)}
         </div>
     );

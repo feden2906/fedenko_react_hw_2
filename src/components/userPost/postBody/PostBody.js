@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import './PostBody.css'
 
 class PostBody extends Component {
   render() {
